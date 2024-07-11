@@ -30,7 +30,7 @@ At Zahal1a, our mission is to empower decentralization by building secure, scala
 ## Connect with Us
 
 - **𝕏:** [@Zahal1a](https://x.com/Zahal1a)
-- **GitHub:** [github.com/Zahal1a](https://github.com/Zahal1a)
+- **Discord:** [@zahal1a](https://discordapp.com/users/846100911657975840)
 
 Join us on our journey to shape the future of blockchain technology! 🚀 Together, we can build a decentralized and secure digital world.
 
