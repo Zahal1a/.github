@@ -26,6 +26,7 @@ At Zahal1a, our mission is to empower decentralization by building secure, scala
 - **[0g](https://github.com/Zahal1a/guides/blob/main/0g/README.MD):** A comprehensive guide for setting up and managing 0g nodes, and validators.
 - **[Warden](https://github.com/Zahal1a/guides/blob/main/warden/README.MD):** A detailed guide for deploying and maintaining Warden nodes, with best practices for security and efficiency.
 - **[Massa Labs](https://github.com/Zahal1a/guides/blob/main/massa-labs/README.MD):** An in-depth guide for Massa Labs nodes, covering setup, configuration, and maintenance.
+- **[Artela](https://github.com/Zahal1a/artela):** This guide outlines the steps required to set up a full node.
 
 ## Connect with Us
 
